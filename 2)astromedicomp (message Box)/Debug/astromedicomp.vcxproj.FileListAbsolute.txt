@@ -1,0 +1,2 @@
+C:\Users\anike\source\repos\astromedicomp\Debug\astromedicomp.exe
+C:\Users\anike\source\repos\astromedicomp\Debug\astromedicomp.pdb
