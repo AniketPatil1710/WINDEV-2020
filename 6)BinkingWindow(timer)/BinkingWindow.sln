@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinkingWindow", "BinkingWindow.vcxproj", "{81AC8318-396E-42DC-A005-BD9319377721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AC8318-396E-42DC-A005-BD9319377721}.Debug|x64.ActiveCfg = Debug|x64
+		{81AC8318-396E-42DC-A005-BD9319377721}.Debug|x64.Build.0 = Debug|x64
+		{81AC8318-396E-42DC-A005-BD9319377721}.Debug|x86.ActiveCfg = Debug|Win32
+		{81AC8318-396E-42DC-A005-BD9319377721}.Debug|x86.Build.0 = Debug|Win32
+		{81AC8318-396E-42DC-A005-BD9319377721}.Release|x64.ActiveCfg = Release|x64
+		{81AC8318-396E-42DC-A005-BD9319377721}.Release|x64.Build.0 = Release|x64
+		{81AC8318-396E-42DC-A005-BD9319377721}.Release|x86.ActiveCfg = Release|Win32
+		{81AC8318-396E-42DC-A005-BD9319377721}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630C1E49-E5EB-4782-9D46-623A7A9F6AC5}
+	EndGlobalSection
+EndGlobal
